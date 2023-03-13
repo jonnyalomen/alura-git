@@ -1,0 +1,23 @@
+[33mcommit 2a3527a9e28f595723b0867aaea79a16c768bcea[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Jonny Mendez <jonnyalomen@gmail.com>
+Date:   Sun Feb 5 17:07:39 2023 -0500
+
+    agregando gitignore
+
+[33mcommit e4df3bf5a1bf2ddf4da9b60140bfa11087f12eb2[m
+Author: Jonny <jonnyalomen@gmail.com>
+Date:   Sun Feb 5 16:24:48 2023 -0500
+
+    Incluir descripcion tercer parrafo
+
+[33mcommit e753ffbac054eda653a26e5215f93b6fd3e7e3c0[m
+Author: Jonny <jonnyalomen@gmail.com>
+Date:   Mon Jan 30 15:19:30 2023 -0500
+
+    Arreglado link a carpetas externas
+
+[33mcommit 4c47e1c534367fcc0d258d26de2eb0271a8f8a3b[m
+Author: Jonny <jonnyalomen@gmail.com>
+Date:   Mon Jan 30 15:16:11 2023 -0500
+
+    Creando archivo index.html con lista de cursos
